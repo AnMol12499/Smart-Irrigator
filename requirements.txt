@@ -1,0 +1,8 @@
+MODULES &LIBRARIES USED:
+requests
+time
+json
+Nexmo
+BeautifulSoup
+streamlit
+datetime
